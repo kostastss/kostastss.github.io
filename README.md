@@ -1,5 +1,4 @@
-# progintro/hw0/<kostastss>
-Introduction to computer science
-Project #0
-Create a new URL in GitHub
-Connected with GitHub Pages
+// progintro/hw0/<kostastss> //
+A page created by Konstantinos Tsiotsias.
+Promped by Introduction to Computer Science class of UoA.
+Designed to host projects.
