@@ -1,3 +1,4 @@
 # progintro/hw0/<kostastss>
 project #0
-New URL in GitHub
+Create a new URL in GitHub
+Connected with GitHub Pages
