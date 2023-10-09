@@ -1,4 +1,5 @@
 # progintro/hw0/<kostastss>
-project #0
+Introduction to computer science
+Project #0
 Create a new URL in GitHub
 Connected with GitHub Pages
