@@ -1,0 +1,1 @@
+For the #0 level the username and the password was provided by the site.
