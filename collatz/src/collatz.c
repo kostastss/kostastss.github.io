@@ -25,16 +25,16 @@ int main(int argc, char* argv[]){
        return 1;
     }   
     if (min <= 0 || max <= 0){ 
-       printf ("0");
+       printf ("0\n");
     } else {
        max_length = 0;  
        for (number = min; number <= max; number++){ 
            length = collatz(number);
            if (max_length < length) { 
                    max_length = length;
-           }
+           }   
     }   
-    }   
- printf("%d\n",max_length);
+    printf("%d\n",max_length);
+    }
     return 0;
 }
